@@ -1,1 +1,2 @@
 hello! i am in parentdir2
+am i hidden?
